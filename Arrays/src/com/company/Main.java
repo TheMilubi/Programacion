@@ -10,7 +10,7 @@ public class Main {
         int opcion;
         System.out.println("Menu");
         System.out.println("************");
-        System.out.print("Escribe el numero del ejercicio [1-40]: ");
+        System.out.print("Escribe el numero del ejercicio [1-41]: ");
         opcion = sc.nextInt();
         switch (opcion) {
             case 1: {
@@ -897,19 +897,5 @@ public class Main {
             a[i] = a[i+1];
             a[i+1] = aux;
         }
-    }
-    //2. Escribe la función compruebaTarjeta. A esta función le pasaremos un array de enteros
-    //con los 16 números de una tarjeta de crédito. La función nos devolverá un boolean que
-    //será true si el número de tarjeta es correcto y false si no lo es. Para averiguar si un
-    //número de tarjeta de crédito es correcto utilizaremos el siguiente algoritmo:
-        //1. Multiplicar por dos los valores que estén en las posiciones pares del array (0, 2, …).
-        //2. Si algún valor es mayor que 10, restarle 9 a ese valor.
-        //3. Sumar todos los valores. Si el resultado es múltiplo de 10, la tarjeta es buena.
-        //Ejemplos de tarjetas válidas: 5565 8666 4522 7307, 4929 9968 6150 1756
-        //Nota: No os carguéis el array inicial. Si el array no tiene 16 elementos, devolver false
-        //directamente.
-    public static boolean compruebaTarjeta(){
-        boolean valida;
-        return valida;
     }
 }
