@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06edcb05-dfbb-44e8-834c-f64d0140a87c" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
+>>>>>>> c916e0be70865a81cee7c52015ab2085b4f2b86f
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,6 +21,7 @@
     <option name="hideWarnings" value="true" />
     <option name="HIDE_WARNINGS" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="-1424173949">
       <usages-collector id="statistics.lifecycle.project">
@@ -73,6 +80,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> c916e0be70865a81cee7c52015ab2085b4f2b86f
   <component name="FindInProjectRecents">
     <findStrings>
       <find>numeroApro</find>
@@ -89,10 +98,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="83" />
-    <option name="y" value="23" />
-    <option name="width" value="1753" />
-    <option name="height" value="970" />
+    <option name="x" value="81" />
+    <option name="y" value="21" />
+    <option name="width" value="1755" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -100,8 +109,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+<<<<<<< HEAD
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,6 +122,10 @@
           <select />
         </subPane>
       </pane>
+=======
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+>>>>>>> c916e0be70865a81cee7c52015ab2085b4f2b86f
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,9 +178,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979867" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27044535" />
+>>>>>>> c916e0be70865a81cee7c52015ab2085b4f2b86f
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -176,7 +193,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+>>>>>>> c916e0be70865a81cee7c52015ab2085b4f2b86f
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -193,16 +214,19 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="14212">
           <caret line="901" lean-forward="true" selection-start-line="901" selection-end-line="901" />
+=======
+        <state relative-caret-position="6035">
+          <caret line="355" column="5" lean-forward="true" selection-start-line="355" selection-start-column="5" selection-end-line="355" selection-end-column="5" />
+>>>>>>> c916e0be70865a81cee7c52015ab2085b4f2b86f
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
