@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f03bac-86dc-4a68-be30-43bf0946f99b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicio4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio1/Ut2Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio2/Ut2Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio3/Ut2Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio4/Ut2Ejercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ut2Ejercicio5/Ut2Ejercicio5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ejercicio4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -12,37 +28,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1218913142">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2364" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2364" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="399" column="24" selection-start-line="399" selection-start-column="24" selection-end-line="399" selection-end-column="24" />
+            <state relative-caret-position="271">
+              <caret line="131" column="5" lean-forward="true" selection-start-line="125" selection-start-column="4" selection-end-line="131" selection-end-column="5" />
               <folding>
-                <element signature="method#numeroEspacios#0;class#Main#0" />
                 <element signature="method#numeroVocales#0;class#Main#0" />
                 <element signature="method#esPalindromo#0;class#Main#0" />
                 <element signature="method#contiene#0;class#Main#0" />
@@ -52,15 +45,10 @@
                 <element signature="method#quitaEspaciosTrim#0;class#Main#0" />
                 <element signature="method#sustituyeCaracter#0;class#Main#0" />
                 <element signature="method#cuentaPalabras#0;class#Main#0" />
-                <element signature="method#esNumero#0;class#Main#0" />
                 <element signature="method#quitaCaracter#0;class#Main#0" />
                 <element signature="method#quitaAcentos#0;class#Main#0" />
                 <element signature="method#invierteCadena#0;class#Main#0" />
                 <element signature="method#vecesCaracter#0;class#Main#0" />
-                <element signature="method#vecesPalabras#0;class#Main#0" />
-                <element signature="method#mayusculasPrimera#0;class#Main#0" />
-                <element signature="method#sustituyePalabra#0;class#Main#0" />
-                <element signature="method#inviertePalabras#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -79,10 +67,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="20" />
-    <option name="width" value="1755" />
-    <option name="height" value="974" />
+    <option name="x" value="84" />
+    <option name="y" value="24" />
+    <option name="width" value="1752" />
+    <option name="height" value="969" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -101,18 +89,47 @@
             </path>
             <path>
               <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Strings" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544549015498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544599411156" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Arrays" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -161,10 +178,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27449664" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28906882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -193,19 +210,18 @@
       <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Strings.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Strings/com/company/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="399" column="24" selection-start-line="399" selection-start-column="24" selection-end-line="399" selection-end-column="24" />
+        <state relative-caret-position="271">
+          <caret line="131" column="5" lean-forward="true" selection-start-line="125" selection-start-column="4" selection-end-line="131" selection-end-column="5" />
           <folding>
-            <element signature="method#numeroEspacios#0;class#Main#0" />
             <element signature="method#numeroVocales#0;class#Main#0" />
             <element signature="method#esPalindromo#0;class#Main#0" />
             <element signature="method#contiene#0;class#Main#0" />
@@ -215,15 +231,10 @@
             <element signature="method#quitaEspaciosTrim#0;class#Main#0" />
             <element signature="method#sustituyeCaracter#0;class#Main#0" />
             <element signature="method#cuentaPalabras#0;class#Main#0" />
-            <element signature="method#esNumero#0;class#Main#0" />
             <element signature="method#quitaCaracter#0;class#Main#0" />
             <element signature="method#quitaAcentos#0;class#Main#0" />
             <element signature="method#invierteCadena#0;class#Main#0" />
             <element signature="method#vecesCaracter#0;class#Main#0" />
-            <element signature="method#vecesPalabras#0;class#Main#0" />
-            <element signature="method#mayusculasPrimera#0;class#Main#0" />
-            <element signature="method#sustituyePalabra#0;class#Main#0" />
-            <element signature="method#inviertePalabras#0;class#Main#0" />
           </folding>
         </state>
       </provider>
