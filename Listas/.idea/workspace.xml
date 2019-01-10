@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b0fa4d-f937-4cd6-ac39-8ecca3c487f7" name="Default Changelist" comment="">
+    <list default="true" id="6bc22a35-9805-4641-b35d-441fe09f3c9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ut2Ejercicio1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ut2Ejercicio1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ut2Ejercicio2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ut2Ejercicio2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ut2Ejercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ut2Ejercicio3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ut2Ejercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ut2Ejercicio4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ut2Ejercicio5/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ut2Ejercicio5/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ut2Ejercicio5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ut2Ejercicio5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ut2Ejercicio5/out/production/Ut2Ejercicio5/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ut2Ejercicio5/out/production/Ut2Ejercicio5/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ut2Ejercicio5/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ut2Ejercicio5/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,13 +23,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="160">
+              <caret line="166" column="55" selection-start-line="166" selection-start-column="55" selection-end-line="166" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>a</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -52,13 +58,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544609211592" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547041723281" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,7 +81,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Ut2Ejercicio5" />
+      <module name="Listas" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -94,11 +100,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a1b0fa4d-f937-4cd6-ac39-8ecca3c487f7" name="Default Changelist" comment="" />
-      <created>1544605332718</created>
+      <changelist id="6bc22a35-9805-4641-b35d-441fe09f3c9b" name="Default Changelist" comment="" />
+      <created>1544792940946</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1544605332718</updated>
+      <updated>1544792940946</updated>
     </task>
     <servers />
   </component>
@@ -135,10 +141,24 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3001">
+          <caret line="558" selection-start-line="558" selection-end-line="558" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state relative-caret-position="160">
+          <caret line="166" column="55" selection-start-line="166" selection-start-column="55" selection-end-line="166" selection-end-column="55" />
         </state>
       </provider>
     </entry>

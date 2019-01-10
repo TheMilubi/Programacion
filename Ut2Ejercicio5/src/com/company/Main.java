@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(compruebaEmail("Very.co-mmon@example.com")?"Valido":"Invalido");
+        System.out.println(compruebaEmail("ruben@example.com")?"Valido":"Invalido");
     }
     public static boolean compruebaEmail(String email){
         boolean valida;
