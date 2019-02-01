@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bc22a35-9805-4641-b35d-441fe09f3c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArraysMultidimensionales/ArraysMultidimensionales.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficheros/.idea/artifacts/Ficheros_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficheros/Ficheros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ficheros/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysMultidimensionales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysMultidimensionales/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-349">
-              <caret line="463" column="5" lean-forward="true" selection-start-line="463" selection-start-column="5" selection-end-line="463" selection-end-column="5" />
+            <state relative-caret-position="-6211">
+              <caret line="114" column="27" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -40,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="84" />
     <option name="y" value="24" />
     <option name="width" value="1752" />
@@ -54,13 +57,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547632602944" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,10 +109,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28097165" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25668016" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -153,8 +157,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-349">
-          <caret line="463" column="5" lean-forward="true" selection-start-line="463" selection-start-column="5" selection-end-line="463" selection-end-column="5" />
+        <state relative-caret-position="-6211">
+          <caret line="114" column="27" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="27" />
         </state>
       </provider>
     </entry>
