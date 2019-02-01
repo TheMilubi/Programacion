@@ -22,6 +22,12 @@ public class Main {
                     String extension = "iml";
                     System.out.println("Hay "+cuantosFicheros(extension)+" fichero(s) con la extension "+extension);
                 }
+                case 2: {
+                    String extension = "exe";
+                    String path = "c:/windows";
+                    System.out.println("Hay "+cuantosFicheros(extension,path)+" fichero(s) con la extension "
+                            +extension +" en el directorio "+path);
+                }
             }
         }while (opcion!=0);
     }
@@ -46,5 +52,26 @@ public class Main {
 
         return numero;
     }
-    //
+    //2. Escribe la función cuantosFicherosPro a la que le pasas una extensión de archivo y una
+    //carpeta y te dice cuántos archivos con esa extensión hay en esa carpeta.
+    //Ej.: CuantosFicherosPro(“txt”, “C:\\Windows”) nos dirá cuántos ficheros .txt
+    //hay en la carpeta C:\Windows.
+    public static int cuantosFicheros(String extension, String path){
+        int numero = 0;
+        File directorio = new File(path);
+        if(directorio.exists()&&directorio.isDirectory()) {
+            File[] ficheros = directorio.listFiles();
+            for (int i = 0; i < ficheros.length; i++) {
+                if (ficheros[i].isFile()) {
+                    String nombre = ficheros[i].getName();
+                    String[] nomExt = nombre.split("[.]");
+                    String ext = nomExt[nomExt.length - 1];
+                    if (extension.contentEquals(ext)) {
+                        numero++;
+                    }
+                }
+            }
+        }else System.out.println("Path proporcionado no valido");
+        return numero;
+    }
 }
