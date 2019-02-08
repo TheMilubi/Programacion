@@ -496,4 +496,5 @@ public class Main {
         }
         escribeFicheroIntLista(nombre, listaInv);
     }
+
 }

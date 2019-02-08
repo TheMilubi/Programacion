@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2afbc35f-4311-41f8-afce-294847348739" name="Default Changelist" comment="">
+    <list default="true" id="3b6b3b8a-fa3a-49aa-810d-2665b0f90072" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio1/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio2/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio2/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio2/Ex3Ejercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio3/Ex3Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex3Ejercicio3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArraysMultidimensionales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysMultidimensionales/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Diaz_Duran_Ruben.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ficheros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ficheros/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros/src/com/company/Main.java" afterDir="false" />
     </list>
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="82" column="33" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="33" />
+            <state relative-caret-position="124">
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,34 +63,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Ficheros y Directorios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ficheros y Directorios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ficheros y Directorios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ficheros y Directorios" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ficheros y Directorios" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ficheros y Directorios" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549028732367" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549454396610" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,7 +86,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Ficheros y Directorios" />
+      <module name="Ex3Ejercicio3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -127,19 +105,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2afbc35f-4311-41f8-afce-294847348739" name="Default Changelist" comment="" />
-      <created>1549024505173</created>
+      <changelist id="3b6b3b8a-fa3a-49aa-810d-2665b0f90072" name="Default Changelist" comment="" />
+      <created>1549453503237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549024505173</updated>
+      <updated>1549453503237</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23157895" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -156,7 +133,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -170,8 +147,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="82" column="33" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="33" />
+        <state relative-caret-position="124">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

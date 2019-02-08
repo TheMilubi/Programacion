@@ -74,4 +74,11 @@ public class Main {
         }else System.out.println("Path proporcionado no valido");
         return numero;
     }
+    //3. Escribe la función creaBackup a la que le pasas un nombre de fichero. La función
+    //copiará ese fichero en otro al que le añadiremos la extensión “.bak” (para tener una
+    //copia de seguridad). Si el nuevo fichero existe, le añadiremos otra vez “.bak” hasta que
+    //encontremos un nombre de fichero disponible.
+    //Ej.: CreaBackup(“texto.txt”) copiará el fichero texto.txt a texto.txt.bak. Si este
+    //nombre existe, lo copiará a texto.txt.bak.bak, etc.
+    public static void creaBackup
 }

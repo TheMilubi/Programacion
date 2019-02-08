@@ -7,12 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b65b4d9-a090-4170-a667-64dbd7be4a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Ficheros_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficheros.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio2/Ex3Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex3Ejercicio3/Ex3Ejercicio3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArraysMultidimensionales/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysMultidimensionales/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Listas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Listas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Diaz_Duran_Ruben.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+            <state relative-caret-position="6375">
+              <caret line="375" column="64" selection-start-line="375" selection-start-column="64" selection-end-line="375" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,22 +130,6 @@
             </path>
             <path>
               <item name="Ficheros" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ficheros" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ficheros" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ficheros" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ficheros" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ficheros" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ficheros" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -200,7 +191,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28097165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -241,8 +232,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        <state relative-caret-position="6375">
+          <caret line="375" column="64" selection-start-line="375" selection-start-column="64" selection-end-line="375" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
