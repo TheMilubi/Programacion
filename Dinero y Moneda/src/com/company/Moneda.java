@@ -2,8 +2,9 @@ package com.company;
 
 import java.security.InvalidParameterException;
 
+enum tipoMoneda{EURO, LIBRA, DOLAR, YEN, YUAN};
+
 public class Moneda {
-    public static enum tipoMoneda{EURO, LIBRA, DOLAR, YEN, YUAN};
     private tipoMoneda tMoneda;
     private int decimales;
     private String simbolo;
