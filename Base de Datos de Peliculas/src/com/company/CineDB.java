@@ -17,7 +17,7 @@ public class CineDB {
         }
     }
     public int insertaPelicula(String titulo, int anno, boolean tieneOscar, double valoracion){
-        int id = 0;
+        int id = -1;
         try {
             String sql = "INSERT INTO peliculas(titulo, anno, tieneOscar, valoracion) VALUES(?,?,?,?);";
             PreparedStatement st = conn.prepareStatement(sql);
@@ -28,14 +28,14 @@ public class CineDB {
             st.executeUpdate();
             sql = "SELECT last_insert_rowid();";
             ResultSet rs = st.executeQuery(sql);
-            id = rs.getInt("id");
+            if (rs.next()) id = rs.getInt("id");
         }catch (SQLException e){
             System.out.println(e.getMessage());
         }
         return id;
     }
     public int insertaActor(String nombre, LocalDate fechaNacimiento){
-        int id = 0;
+        int id = -1;
         try {
             String sql = "INSERT INTO actores(nombre, fechaNacimiento) VALUES(?,?);";
             PreparedStatement st = conn.prepareStatement(sql);
@@ -44,7 +44,7 @@ public class CineDB {
             st.executeUpdate();
             sql = "SELECT last_insert_rowid();";
             ResultSet rs = st.executeQuery(sql);
-            id = rs.getInt("id");
+            if (rs.next()) id = rs.getInt("id");
         }catch (SQLException e){
             System.out.println(e.getMessage());
         }
@@ -69,7 +69,7 @@ public class CineDB {
             PreparedStatement st = conn.prepareStatement(sql);
             st.setString(1,"%"+nombre+"%");
             ResultSet rs = st.executeQuery();
-            id = rs.getInt("id");
+            if (rs.next()) id = rs.getInt("id");
         }catch (SQLException e){
             System.out.println(e.getMessage());
         }
@@ -82,7 +82,7 @@ public class CineDB {
             PreparedStatement st = conn.prepareStatement(sql);
             st.setString(1,"%"+titulo+"%");
             ResultSet rs = st.executeQuery();
-            id = rs.getInt("id");
+            if (rs.next()) id = rs.getInt("id");
         }catch (SQLException e){
             System.out.println(e.getMessage());
         }
@@ -95,12 +95,13 @@ public class CineDB {
             PreparedStatement st = conn.prepareStatement(sql);
             st.setInt(1,idPelicula);
             ResultSet rs = st.executeQuery();
-            pelicula.id = rs.getInt("id");
-            pelicula.titulo = rs.getString("titulo");
-            pelicula.anno = rs.getInt("anno");
-            pelicula.tieneOscar = rs.getBoolean("tieneOscar");
-            pelicula.valoracion = rs.getDouble("valoracion");
-
+            if (rs.next()) {
+                pelicula.id = rs.getInt("id");
+                pelicula.titulo = rs.getString("titulo");
+                pelicula.anno = rs.getInt("anno");
+                pelicula.tieneOscar = rs.getBoolean("tieneOscar");
+                pelicula.valoracion = rs.getDouble("valoracion");
+            }
         }catch (SQLException e){
             System.out.println(e.getMessage());
         }
@@ -113,9 +114,11 @@ public class CineDB {
             PreparedStatement st = conn.prepareStatement(sql);
             st.setInt(1,idActor);
             ResultSet rs = st.executeQuery();
-            actor.id = rs.getInt("id");
-            actor.nombre = rs.getString("nombre");
-            actor.fechaNacimiento = rs.getDate("fechaNacimiento").toLocalDate();
+            if (rs.next()) {
+                actor.id = rs.getInt("id");
+                actor.nombre = rs.getString("nombre");
+                actor.fechaNacimiento = rs.getDate("fechaNacimiento").toLocalDate();
+            }
         }catch (SQLException e){
             System.out.println(e.getMessage());
         }

@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Locale;
+
 public class Pelicula {
     public int id;
     public String titulo;
@@ -9,12 +11,6 @@ public class Pelicula {
 
     @Override
     public String toString() {
-        String s = "";
-        s = s + id +" ";
-        s = s + titulo +" ";
-        s = s + anno +" ";
-        s = s + tieneOscar +" ";
-        s = s + valoracion;
-        return s;
+        return String.format(Locale.ENGLISH,"%d '%s' %d '%s' %.1f",id,titulo,anno,tieneOscar,valoracion);
     }
 }

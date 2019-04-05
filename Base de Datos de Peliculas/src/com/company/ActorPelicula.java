@@ -9,11 +9,6 @@ public class ActorPelicula {
     public boolean principal;
     @Override
     public String toString() {
-        String s = "";
-        s = s + id +" ";
-        s = s + nombre +" ";
-        s = s + fechaNacimiento+ " ";
-        s = s + principal;
-        return s;
+        return String.format("%d '%s' '%s' '%s'",id,nombre,fechaNacimiento,principal);
     }
 }

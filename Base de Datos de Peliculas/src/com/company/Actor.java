@@ -9,10 +9,6 @@ public class Actor {
 
     @Override
     public String toString() {
-        String s = "";
-        s = s + id +" ";
-        s = s + nombre +" ";
-        s = s + fechaNacimiento;
-        return s;
+        return String.format("%d '%s' '%s'",id,nombre,fechaNacimiento);
     }
 }
