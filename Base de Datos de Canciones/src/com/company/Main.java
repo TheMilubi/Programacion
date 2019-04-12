@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         //AJUSTAR VALORES DE LA BASE DE DATOS
-        MusicaDB musicaDB = new MusicaDB("localhost","bd","patata","patata");
+        MusicaDB musicaDB = new MusicaDB("192.168.60.130","musica","usuario","usuario");
         ClasificaMP3 mp3 = new ClasificaMP3(musicaDB);
         int op;
         Scanner sc = new Scanner(System.in);

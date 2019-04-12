@@ -72,7 +72,7 @@ public class ClasificaMP3 {
                     }
                 }
             }
-        }catch (NullPointerException e){
+        }catch (Exception e){
             e.printStackTrace();
             System.out.println(e.getMessage());
         }
@@ -96,7 +96,7 @@ public class ClasificaMP3 {
                     }
                 }
             }
-        }catch (NullPointerException e){
+        }catch (Exception e){
             e.printStackTrace();
             System.out.println(e.getMessage());
         }
@@ -122,6 +122,9 @@ public class ClasificaMP3 {
                 e.printStackTrace();
                 System.out.println(e.getMessage());
             }
+        }
+        else{
+            System.out.println("No ha escrito un nombre correcto, el fichero debe tener la extension .m3u");
         }
     }
     public void generaListaReproduccionAleatoria(String fichero){

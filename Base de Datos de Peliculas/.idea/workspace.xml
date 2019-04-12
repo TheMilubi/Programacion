@@ -2,23 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93b9d90e-fcb3-4914-80d8-04e2dc2d6aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/ClasificaMP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3TEjercicio1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3TEjercicio1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cliente/Cliente.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/ServidorBonoloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Cancion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Cancion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/ClasificaMP3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/ClasificaMP3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/MusicaDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/MusicaDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Cancion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Cancion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/ClasificaMP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/ClasificaMP3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/MusicaDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/MusicaDB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/Actor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/ActorPelicula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/ActorPelicula.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/CineDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/CineDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/Pelicula.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Base de Datos de Peliculas/com/company/Pelicula.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ActorPelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ActorPelicula.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CineDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CineDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-991">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="616">
+              <caret line="28" column="24" selection-start-line="13" selection-start-column="8" selection-end-line="28" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/CineDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2574">
-              <caret line="120" column="13" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
+            <state relative-caret-position="484">
+              <caret line="106" column="9" selection-start-line="92" selection-start-column="8" selection-end-line="106" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/ActorPelicula.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="220">
               <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="e#236#237#0" expanded="true" />
@@ -129,6 +130,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,7 +153,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +208,7 @@
     <frame x="0" y="0" width="1920" height="1014" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29157668" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29643628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -243,10 +244,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CineDB.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2574">
-          <caret line="120" column="13" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
+        <state relative-caret-position="616">
+          <caret line="28" column="24" selection-start-line="13" selection-start-column="8" selection-end-line="28" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -273,7 +274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ActorPelicula.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="220">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="e#236#237#0" expanded="true" />
@@ -282,10 +283,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/CineDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-991">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="484">
+          <caret line="106" column="9" selection-start-line="92" selection-start-column="8" selection-end-line="106" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
