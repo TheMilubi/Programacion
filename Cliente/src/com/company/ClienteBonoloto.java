@@ -53,11 +53,12 @@ public class ClienteBonoloto implements Runnable {
             System.out.println(e.getMessage());
             conectaCliente();
         }
-        System.out.println(contadorAciertos);
+        //System.out.println(contadorAciertos);
         return contadorAciertos;
     }
     @Override
     public void run() {
-        conectaCliente();
+        int numAcierto = conectaCliente();
+        System.out.println("Numero de aciertos: "+numAcierto);
     }
 }

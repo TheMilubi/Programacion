@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5aa421a-b98e-411e-a430-b8827d608b84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/Cliente.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/ServidorBonoloto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/ClasificaMP3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/ClasificaMP3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/ClasificaMP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/ClasificaMP3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Peliculas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Peliculas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1562">
-              <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+            <state relative-caret-position="982">
+              <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,7 +68,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,6 +90,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,20 +144,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1932" height="1020" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1014" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16036718" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16306695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32928312" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32928312" />
@@ -180,32 +161,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32928312" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Votacion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Votacion.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="101" column="20" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="20" />
+        <state relative-caret-position="982">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

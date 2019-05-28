@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e39f234-b72d-4818-a3ac-57a634310c05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio3/src/com/company/BuscaTexto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../3TEjercicio4/3TEjercicio4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/Cliente.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/ServidorBonoloto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/ClasificaMP3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/ClasificaMP3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/out/production/Base de Datos de Canciones/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/ClasificaMP3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/ClasificaMP3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Canciones/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Base de Datos de Peliculas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Base de Datos de Peliculas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ficheros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,12 +24,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-594">
-              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="-528">
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,10 +63,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="84" />
-    <option name="y" value="24" />
-    <option name="width" value="1752" />
-    <option name="height" value="969" />
+    <option name="x" value="6" />
+    <option name="width" value="1268" />
+    <option name="height" value="670" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -94,6 +73,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,10 +86,10 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ficheros y Directorios" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -161,7 +141,7 @@
     <frame x="0" y="0" width="1920" height="1014" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25431967" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26295897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -192,12 +172,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        <state relative-caret-position="-528">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
           </folding>
         </state>
       </provider>

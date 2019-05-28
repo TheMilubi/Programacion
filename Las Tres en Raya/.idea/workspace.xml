@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005a6d2b-472a-44aa-8070-1d119a16334a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Carta y Baraja/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carta y Baraja/Carta y Baraja.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carta y Baraja/src/com/company/Baraja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Carta y Baraja/src/com/company/Carta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Grupo y Alumno/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Grupo y Alumno/Fichero3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Grupo y Alumno/Fichero5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Grupo y Alumno/Fichero7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Grupo y Alumno/src/com/company/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Grupo y Alumno/src/com/company/Grupo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Las Tres en Raya.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TresEnRaya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros y Directorios/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ficheros y Registros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ficheros y Registros/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dinero y Moneda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dinero y Moneda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Las Tres en Raya/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Las Tres en Raya/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Las Tres en Raya/com/company/TresEnRaya.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Las Tres en Raya/com/company/TresEnRaya.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="246">
+              <caret line="76" column="58" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/TresEnRaya.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+            <state relative-caret-position="2134">
+              <caret line="101" column="5" selection-start-line="4" selection-end-line="101" selection-end-column="5" />
               <folding>
                 <element signature="e#1361#1362#0" expanded="true" />
                 <element signature="e#1397#1398#0" expanded="true" />
@@ -71,10 +68,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="84" />
-    <option name="y" value="24" />
-    <option name="width" value="1752" />
-    <option name="height" value="969" />
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -84,8 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,7 +108,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550234899235" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dinero y Moneda" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,9 +158,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-6" y="0" width="1932" height="1020" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26187906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -189,15 +191,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="246">
+          <caret line="76" column="58" selection-start-line="76" selection-start-column="58" selection-end-line="76" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/TresEnRaya.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        <state relative-caret-position="2134">
+          <caret line="101" column="5" selection-start-line="4" selection-end-line="101" selection-end-column="5" />
           <folding>
             <element signature="e#1361#1362#0" expanded="true" />
             <element signature="e#1397#1398#0" expanded="true" />
@@ -205,5 +207,76 @@
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="324835f1-39ae-46b2-bf22-ff91ca852907" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Clinica Veterinaria - Animales/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clinica Veterinaria - Animales/src/com/company/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clinica Veterinaria - Animales/src/com/company/ClinicaVeterinaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clinica Veterinaria - Animales/src/com/company/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clinica Veterinaria - Animales/src/com/company/Pajaro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clinica Veterinaria - Animales/src/com/company/Perro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clinica Veterinaria - Animales/src/com/company/Reptil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3TEjercicio4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3TEjercicio4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/out/production/Cliente/com/company/ClienteBonoloto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cliente/src/com/company/ClienteBonoloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Las Tres en Raya/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Las Tres en Raya/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Las Tres en Raya/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Las Tres en Raya/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Las Tres en Raya/out/production/Las Tres en Raya/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Las Tres en Raya/out/production/Las Tres en Raya/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Las Tres en Raya/out/production/Las Tres en Raya/com/company/TresEnRaya.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Las Tres en Raya/out/production/Las Tres en Raya/com/company/TresEnRaya.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sockets y Threads/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,13 +23,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            <state relative-caret-position="1188">
+              <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -43,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Moneda.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -74,10 +83,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="982" />
+    <option name="x" value="84" />
+    <option name="y" value="24" />
+    <option name="width" value="1752" />
+    <option name="height" value="969" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,8 +96,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,7 +123,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553077164681" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,9 +170,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1012" extended-state="6" />
+    <frame x="-6" y="0" width="1932" height="1020" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2672786" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27699783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -192,8 +203,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        <state relative-caret-position="1188">
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
         </state>
       </provider>
     </entry>
